@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf8'?>
+<contacts><contact><email>tsmith@boo.com</email><name age="53"><first>Tom</first><last>Smith</last></name></contact><contact><email>phammer@boo.com</email><name age="42"><first>Phil</first><last>Hammer</last></name></contact><contact><email>jrest@goo.com</email><name age="33"><first>Jessica</first><last>Rest</last></name></contact><contact><email>mfast@boo.com</email><name age="22"><first>Mary</first><last>Fast</last></name></contact></contacts>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ItemSearchResponse>
+  <Items>
+    <Item>
+      <ItemAttributes>
+        <ListPrice>
+          <Amount>2260</Amount>
+        </ListPrice>
+      </ItemAttributes>
+      <Offers>
+        <Offer>
+          <OfferListing>
+            <Price>
+              <Amount>1853</Amount>
+            </Price>
+          </OfferListing>
+        </Offer>
+      </Offers>
+    </Item>
+        <Item>
+      <ItemAttributes>
+        <ListPrice>
+          <Amount>3312</Amount>
+        </ListPrice>
+      </ItemAttributes>
+      <Offers>
+        <Offer>
+          <OfferListing>
+            <Price>
+              <Amount>1853</Amount>
+            </Price>
+          </OfferListing>
+        </Offer>
+      </Offers>
+    </Item>
+  </Items>
+</ItemSearchResponse>
